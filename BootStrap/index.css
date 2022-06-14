@@ -1,0 +1,25 @@
+.navbar h5, .navbar p{
+    font-style: oblique;
+    color: rgb(250, 9, 150) !important;
+    /* font-size:xx-large; */
+    border: darkorange;
+    background-color: rgb(241, 245, 245) !important;
+}
+.navbar p,h5{
+    font-style: oblique;
+    color: rgb(236, 69, 3) !important;
+    font-size:xx-large;
+    border: darkorange;
+    background-color: rgb(241, 245, 245) !important;
+}
+
+#one {
+    background-color: rgb(100, 93, 93) !important;
+}
+.container a{
+    color: rgb(229, 229, 236) !important;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
